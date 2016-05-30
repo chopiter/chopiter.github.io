@@ -1,2 +1,0 @@
-# chopiter.github.io
-Chopiter
